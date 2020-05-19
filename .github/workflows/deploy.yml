@@ -22,6 +22,4 @@ jobs:
       - name: deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          deploy_key: ${{ secrets.ACCESS_TOKEN }}
           publish_dir: ./dist
-          cname: nju.today

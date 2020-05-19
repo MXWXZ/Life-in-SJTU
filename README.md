@@ -1,8 +1,8 @@
-# 南哪指南 Life-in-NJU
+# 蛤哪指南 Life-in-SJTU
 
 > 🏠 这儿就是咱的家了
 
-南哪人的专属主页
+蛤交人的专属主页 - Forked from NJU
 
 ![](https://github.com/idealclover/Life-in-NJU/raw/master/assets/screenshots/1.png)
 
@@ -17,11 +17,11 @@
 
 ## 投稿、建议或意见
 
-在 [Issue](https://github.com/idealclover/Life-in-NJU/issues) 选择对应的模板并提交。
+在 [Issue](https://github.com/MXWXZ/Life-in-SJTU/issues) 选择对应的模板并提交。
 
 ## 贵校也想整一个？
 
-Fork，然后改动 [public/data.json](https://github.com/idealclover/Life-in-NJU/blob/master/public/data.json)，即可拥有贵校专属的主页~
+Fork，然后改动 [public/data.json](https://github.com/MXWXZ/Life-in-SJTU/blob/master/public/data.json)，即可拥有贵校专属的主页~
 
 ## 开发与 debug
 
