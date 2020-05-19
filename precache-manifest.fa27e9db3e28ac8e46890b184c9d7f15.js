@@ -64,7 +64,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Life-in-SJTU/fonts/MaterialIcons-Regular.da4ea5cd.ttf"
   },
   {
-    "revision": "5dbba493e01df8c895ed679fd9fa2720",
+    "revision": "d28306da8c01de5ebfcf51e0cc8af8ce",
     "url": "/Life-in-SJTU/index.html"
   },
   {
@@ -92,7 +92,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Life-in-SJTU/robots.txt"
   },
   {
-    "revision": "f7baa0a801ecfb622d2f0937ee286aff",
+    "revision": "aba3426ff885bfcdfb6b05506485c500",
     "url": "/Life-in-SJTU/styles/main.css"
   }
 ]);
