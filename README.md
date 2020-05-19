@@ -1,8 +1,8 @@
-# 蛤哪指南 Life-in-SJTU
+# 蛤交指南 Life-in-SJTU
 
 > 🏠 这儿就是咱的家了
 
-蛤交人的专属主页 - Forked from NJU
+蛤交人的专属主页 - Forked from [NJU](https://github.com/idealclover/Life-in-NJU)
 
 ![](https://github.com/idealclover/Life-in-NJU/raw/master/assets/screenshots/1.png)
 
