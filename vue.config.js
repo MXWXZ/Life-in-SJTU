@@ -1,7 +1,5 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production'
-        ? '/Life-in-SJTU/'
-        : '/',
+  publicPath: process.env.NODE_ENV === "production" ? "/Life-in-SJTU/" : "/",
   transpileDependencies: ["vuetify"],
   pwa: {
     name: "蛤交指南",
