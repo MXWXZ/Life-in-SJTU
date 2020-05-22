@@ -23,6 +23,11 @@
                 "description": "新水源BBS"
             },
             {
+                "name": "葡萄",
+                "link": "https://pt.sjtu.edu.cn/",
+                "description": "pt下载站"
+            },
+            {
                 "name": "我的数字交大",
                 "link": "http://my.sjtu.edu.cn/",
                 "description": "一门式平台"
