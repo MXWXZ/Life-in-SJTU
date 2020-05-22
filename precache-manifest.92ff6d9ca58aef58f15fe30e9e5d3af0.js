@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b3d2038fd3217bc64b5",
+    "revision": "58f0b149ac8b4b559560",
     "url": "/Life-in-SJTU/css/chunk-vendors.234d33b2.css"
   },
   {
-    "revision": "65bf3213e604f8a94aa22864ea0587bf",
+    "revision": "87e8004da2898e11b0aadd2dead6f6bc",
     "url": "/Life-in-SJTU/data.json"
   },
   {
@@ -64,7 +64,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Life-in-SJTU/fonts/MaterialIcons-Regular.da4ea5cd.ttf"
   },
   {
-    "revision": "d28306da8c01de5ebfcf51e0cc8af8ce",
+    "revision": "47183b7e484caf320dfd3ec86456e051",
     "url": "/Life-in-SJTU/index.html"
   },
   {
@@ -76,12 +76,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Life-in-SJTU/js/FuckWeixin.js"
   },
   {
-    "revision": "d3aa55ac92d4c4e64faf",
-    "url": "/Life-in-SJTU/js/app.c0832509.js"
+    "revision": "ce30824d771de1561fb3",
+    "url": "/Life-in-SJTU/js/app.196d4498.js"
   },
   {
-    "revision": "1b3d2038fd3217bc64b5",
-    "url": "/Life-in-SJTU/js/chunk-vendors.d69aa6ee.js"
+    "revision": "58f0b149ac8b4b559560",
+    "url": "/Life-in-SJTU/js/chunk-vendors.631410cb.js"
+  },
+  {
+    "revision": "328e151457e28ddc835aaa1c3e6c852a",
+    "url": "/Life-in-SJTU/js/chunk-vendors.631410cb.js.LICENSE.txt"
   },
   {
     "revision": "34a757b005f03a26558716880f5b8510",
